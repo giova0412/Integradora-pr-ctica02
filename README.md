@@ -6,11 +6,11 @@ Para poder dar enfasis a los contenidos de la documentación podemos utilizar lo
 
 
 
-#Encabezado de Nivel 1
-##Encabezado de Nivel 2
-###Encabezado de Nivel 3
-####Encabezado de Nivel 4
-####Encabezado de Nivel 5
-######Encabezado de Nivel 6
-#######Encabezado de Nivel 7
-###Encabezado de Nivel 1
+# Encabezado de Nivel 1
+## Encabezado de Nivel 2
+### Encabezado de Nivel 3
+#### Encabezado de Nivel 4
+#### Encabezado de Nivel 5
+###### Encabezado de Nivel 6
+###### Encabezado de Nivel 7
+### Encabezado de Nivel 1
