@@ -22,6 +22,7 @@ Ejemplo:
 3.*PARRAFOS
 son utilizados para por presentar grandes secciones de texto que describen detalladamente las secciones de la documentacion del proyecto.
 ejemplo:ESTE texto pertenece al parrafo 1   ESTE texto pertenece al parrafo 1   ESTE texto pertenece al parrafo 1 ESTE texto pertenece al parrafo 1 
+
 ESTE texto pertenece al parrafo 1  ESTE texto pertenece al parrafo 1  ESTE texto pertenece al parrafo 1  ESTE texto pertenece al parrafo 1 
 
 lo que en pagina utilizariamos usando la etiqueta {p}
