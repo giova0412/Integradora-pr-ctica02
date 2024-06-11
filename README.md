@@ -130,5 +130,22 @@ síes en nuestra documentación necesitamos incluir información de texto en mod
 
 
 
+#### 7. Ligas (Hipervínculos)
+
+las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
+
+**EJEMPLO**
+
+Mi buscador favorito es: [www.google.com]/(https://www.google.com)
+
+Pero si deseasa poner solo las ligas directas a un correo electrónico podemos utilizar los símbolos \<\>
+
+**EJEMPLO**
+
+Documentación creada por: **giovany raul pazos cruz*** (<pazoscruzgiovany@gmail.com>)
+
+(<http://www.utxicotepec.edu.mx>)
+
+
 #### texto importate ###
 ### Encabezado de Nivel 1
