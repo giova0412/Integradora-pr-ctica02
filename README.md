@@ -125,8 +125,10 @@ síes en nuestra documentación necesitamos incluir información de texto en mod
 10.Definir si incluye un archivo de descripción llamado: *README.md*
 
 11.Definir si habrá exclusiones de archivo a través del archivo a través del archivo : *gitignore*
-
-7. Guardar los cambios 
+***ejemplo***
+5.quinto
+6.sexto
+7.septimo
 
 
 
