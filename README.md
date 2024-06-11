@@ -131,6 +131,6 @@ síes en nuestra documentación necesitamos incluir información de texto en mod
 
 #### 7. Ligas (Hipervínculos)
 
-las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
+las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /().
 #### texto importate ###
 ### Encabezado de Nivel 1
