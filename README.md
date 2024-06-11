@@ -138,7 +138,7 @@ las ligas utilizadas para vincular elementos o referencias del proyecto dentro d
 
 **EJEMPLO**
 
-Mi buscador favorito es: [www.google.com]/(https://www.google.com).
+Mi buscador favorito es: [www.google.com].
 
 Pero si deseasa poner solo las ligas directas a un correo electrónico podemos utilizar los símbolos \<\>
 
