@@ -226,9 +226,10 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusi�
 
 #### 9.Imágenes 
 
-Si la documentación requiere de incorporar imágenes, equemas , modelos, fotografías, o cualquier representación gráfica, utilizaremos la estuctura de la ligas, maquetanto el nombore de la imagen entre corchetes con  un signo de admiración de cierre y la liga de referencia a la imagen usando parentesis. 
+Si la documentación requiere de incorporar imágenes, equemas , modelos, fotografías, o cualquier representación gráfica, utilizaremos la estuctura de la ligas, maquetanto el nombore de la imagen entre corchetes con  un signo de admiración de cierre y la liga de referencia a la imagen usando parentesis..
 
 **EJEMPLO:**
+![Meteora](https://github.com/giova0412/Integradora-pr-ctica02/blob/main/gengar.jpg)
 
 #### texto importate ###
 ### Encabezado de Nivel 1
